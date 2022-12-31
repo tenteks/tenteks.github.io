@@ -1,6 +1,11 @@
-# My Website
+---
+layout: default
+title: My Website
+---
 
-Welcome to my website!
+# Welcome to My Website
+
+This is a sample website created with Jekyll and Markdown.
 
 ## About Me
 
